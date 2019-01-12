@@ -99,6 +99,7 @@
 - [ ] SSL / TLS
 - [ ] dns预加载
 - [ ] tcp/udp有什么区别
+- [x] [is post method cacheable ?](hzfe-qa-2017/H-computer-networking/is-post-method-cacheable.md)
 
 ### 算法
 - [x] [无向图的深度优先搜索和广度优先搜索](hzfe-qa-2017/I-algorithm/graphs.md)

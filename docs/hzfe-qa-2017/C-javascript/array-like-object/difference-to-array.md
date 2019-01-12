@@ -33,7 +33,7 @@ obj instanceof Object // true
 const obj = { 'first': 1, 'second': 2, length: 3}
 obj.length // 3
 obj.third = 3
-obj.length // 4
+obj.length // 3
 obj instanceof Object // true
 [].
 ```
