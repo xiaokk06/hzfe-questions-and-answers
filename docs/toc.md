@@ -52,7 +52,7 @@
 - [x] [dom和bom](hzfe-qa-2017/D-dom-and-bom/dom-bom.md)
 - [x] [事件委托哪些事件不冒泡](hzfe-qa-2017/D-dom-and-bom/event/no-bubbles.md)
 - [x] [原生Ajax流程](hzfe-qa-2017/D-dom-and-bom/ajax/XMLHttpRequest.md)
-- [ ] addeventlistener 第三个参数的作用
+- [x] [addeventlistener 第三个参数的作用](hzfe-qa-2017/D-dom-and-bom/addEventListener.md)
 - [ ] ajax优点和缺点
 - [ ] cookie和session的区别以及优缺点
 - [ ] cookie怎么跟服务器通信的
